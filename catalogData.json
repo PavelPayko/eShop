@@ -1,12 +1,12 @@
 [
   {
     "id_product": 123,
-    "product_name": "Ноутбук",
+    "product_name": "newНоутбук",
     "price": 45600
   },
   {
     "id_product": 456,
-    "product_name": "Мышка",
+    "product_name": "newМышка",
     "price": 1000
   }
 ]
